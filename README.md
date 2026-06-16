@@ -28,7 +28,7 @@ me.say_hi()
 
 ---
 <h2 align="center">
-## 🛠️ My Tech Stack
+🛠️ My Tech Stack
 </h2>
 
 <div align="center">
@@ -58,7 +58,7 @@ me.say_hi()
 
 ---
 <h2 align="center">
-## 📊 GitHub Stats
+📊 GitHub Stats
 </h2>
 
 <div align="center">
