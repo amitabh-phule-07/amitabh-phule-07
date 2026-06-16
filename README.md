@@ -8,10 +8,6 @@
   <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/banner.jpeg" width="100%" alt="banner"/>
 </div>
 
-# 👋 Hi, I'm Amitabh Phule  
-**B.Tech Student | AI Enthusiast | Creative Developer**
----
-
 ## 🧑‍💻 About Me
 
 ```python
