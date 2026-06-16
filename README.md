@@ -5,7 +5,7 @@
 <br/>
 
 # 👋 Hi, I'm Amitabh Phule  
-**B.Tech Student | AI Enthusiast | Creative Developer**
+
 ---
 ## 🧑‍💻 About Me
 
