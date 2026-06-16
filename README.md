@@ -26,7 +26,6 @@ me = Amitabh()
 me.say_hi()
 ```
 
----
 <h2 align="center">
 🛠️ My Tech Stack
 </h2>
@@ -56,7 +55,6 @@ me.say_hi()
 
 </div>
 
----
 <h2 align="center">
 📊 GitHub Stats
 </h2>
@@ -75,10 +73,6 @@ me.say_hi()
 <div align="center">
 
 
-
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -92,7 +86,7 @@ me.say_hi()
 
 </div>
 
----
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/game.gif" width="100%" alt="Space Invaders Contribution Game"/>
 </div>
