@@ -59,16 +59,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitabh-phule-07&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitabh-phule-07&layout=donut&theme=chartreuse-dark&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitabh-phule-07&theme=github_dark" width="95%"/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitabh-phule-07&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitabh-phule-07&theme=github_dark&utcOffset=5.5" height="180"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitabh-phule-07&theme=react&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff" width="95%"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amitabh-phule-07&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitabh-phule-07&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitabh-phule-07&theme=github_dark" height="180"/>
 
 </div>
 
