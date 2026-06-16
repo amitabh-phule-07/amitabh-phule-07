@@ -57,15 +57,17 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabh-phule-07&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitabh-phule-07&theme=tokyo-night&hide_border=true"/>
-</p>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%"/>
 
----
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%"/>
+
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/3-stats.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%"/>
+
+</div>
 
 ## 👾 Destroying My Contributions
 
