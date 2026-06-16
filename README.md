@@ -87,15 +87,9 @@ me.say_hi()
 
 <div align="center">
 
-    ## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitabh-phule-7bb30b316/)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitabh-phule-7bb30b316/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitabhphule4@gmail.com)
-
-</div>
 
 
 <br/>
