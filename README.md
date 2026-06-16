@@ -75,9 +75,7 @@ me.say_hi()
 <div align="center">
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/game.gif" width="100%" alt="Space Invaders Contribution Game"/>
-</div>
+
 
 ---
 
@@ -95,3 +93,6 @@ me.say_hi()
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/game.gif" width="100%" alt="Space Invaders Contribution Game"/>
+</div>
