@@ -25,7 +25,10 @@ class Amitabh:
 me = Amitabh()
 me.say_hi()
 ```
----
+
+
+
+
 <h2 align="center">
 🛠️ My Tech Stack
 </h2>
@@ -55,6 +58,10 @@ me.say_hi()
 
 </div>
 
+
+
+
+
 <h2 align="center">
 📊 GitHub Stats
 </h2>
@@ -71,6 +78,10 @@ me.say_hi()
 
 </div>
 <div align="center">
+
+
+
+
 
 ## 🤝 Let's Connect!
 
