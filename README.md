@@ -57,17 +57,13 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabh-phule-07&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/0-profile-details.svg" width="95%"/>
-
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/1-repos-per-language.svg" width="48%"/>
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/2-most-commit-language.svg" width="48%"/>
-
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/3-stats.svg" width="48%"/>
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/4-productive-time.svg" width="48%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitabh-phule-07&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
