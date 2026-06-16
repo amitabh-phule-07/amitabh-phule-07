@@ -29,7 +29,7 @@ me.say_hi()
 ---
 
 ## 🛠️ My Tech Stack
-
+---
 <div align="center">
 
 ### 💻 Programming & Web
@@ -58,7 +58,7 @@ me.say_hi()
 ---
 
 ## 📊 GitHub Stats
-
+---
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%"/>
@@ -80,7 +80,7 @@ me.say_hi()
 ---
 
 ## 🤝 Let's Connect!
-
+---
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
