@@ -25,7 +25,7 @@ class Amitabh:
 me = Amitabh()
 me.say_hi()
 ```
-
+---
 <h2 align="center">
 🛠️ My Tech Stack
 </h2>
