@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Amitabh-Phule/Amitabh-Phule/blob/main/WhatsApp%20Image%202026-04-17%20at%2010.39.43%20PM%20(1).jpeg?raw=true" width="100%" alt="Amitabh Phule Banner" />
 
-<br/>
+<br/></div>
 
 # 👋 Hi, I'm Amitabh Phule  
 
