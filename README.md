@@ -27,9 +27,9 @@ me.say_hi()
 ```
 
 ---
-
+<div align="center">
 ## 🛠️ My Tech Stack
-
+</div>
 <div align="center">
 
 ### 💻 Programming & Web
@@ -56,9 +56,9 @@ me.say_hi()
 </div>
 
 ---
-
+<div align="center">
 ## 📊 GitHub Stats
-
+</div>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="95%"/>
@@ -70,7 +70,7 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="48%"/>
 
 </div>
-
+<div align="center">
 ## 👾 Destroying My Contributions
 
 <div align="center">
@@ -78,9 +78,9 @@ me.say_hi()
 </div>
 
 ---
-
+<div align="center">
 ## 🤝 Let's Connect!
-
+</div>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
