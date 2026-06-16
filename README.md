@@ -59,13 +59,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitabh-phule-07&theme=github_dark" width="95%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/0-profile-details.svg" width="95%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitabh-phule-07&theme=github_dark" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitabh-phule-07&theme=github_dark&utcOffset=5.5" height="180"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/1-repos-per-language.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/2-most-commit-language.svg" width="48%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitabh-phule-07&theme=github_dark" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitabh-phule-07&theme=github_dark" height="180"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/3-stats.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/4-productive-time.svg" width="48%"/>
 
 </div>
 
