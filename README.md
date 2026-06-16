@@ -68,13 +68,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="70%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="80%"/>
 
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="28%"/>
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="28%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="38%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="38%"/>
 
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/3-stats.svg" width="28%"/>
-<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="28%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/3-stats.svg" width="38%"/>
+<img src="https://raw.githubusercontent.com/amitabh-phule-07/amitabh-phule-07/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="38%"/>
 
 </div>
 <div align="center">
