@@ -94,7 +94,3 @@ me.say_hi()
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:004d00&height=120&section=footer" width="100%"/>
-</div>
